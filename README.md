@@ -1,14 +1,14 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - *Daily Drip Club*
 
 Submitted by: **Keristy Huynh**
 
 This web app: **Coffee/Matcha Drinks Forum**
 
-Time spent: **** hours spent in total
+Time spent: **13 hours** hours spent in total
 
 ## Required Features
 
-The following **13 hours** functionality is completed:
+The following **required** functionality is completed:
 
 
 - [X] **Web app includes a create form that allows the user to create posts**
