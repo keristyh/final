@@ -1,0 +1,56 @@
+.about-page {
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    font-family: sans-serif;
+}
+
+.about-page ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.about-page ul li {
+    margin-bottom: 0.5rem;
+}
+
+.post-card-detail {
+    background: var(--cream);
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.post-card-detail h1,
+.post-card-detail h2 {
+    color: var(--coffee-brown);
+    margin-bottom: 0.5rem;
+}
+
+.post-card-detail h1 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.post-card-detail h2 {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+.post-card-detail p,
+.post-card-detail ul {
+    color: #333;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.post-card-detail a {
+    color: var(--matcha-green);
+    text-decoration: underline;
+}
+
+.post-card-detail a:hover {
+    color: var(--coffee-brown);
+}
